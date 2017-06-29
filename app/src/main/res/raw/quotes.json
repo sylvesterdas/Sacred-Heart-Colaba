@@ -1,0 +1,3754 @@
+[
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning, God created the heavens and the earth.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 2,
+    "verse": 4,
+    "text": "This is the history of the generations of the heavens and of the earth when they were created, in the day that Yahweh God made the earth and the heavens.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 2,
+    "verse": 7,
+    "text": "Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 2,
+    "verse": 16,
+    "text": "Yahweh God commanded the man, saying, \u201cYou may freely eat of every tree of the garden;\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 2,
+    "verse": 17,
+    "text": "but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.\u201d\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 3,
+    "verse": 4,
+    "text": "The serpent said to the woman, \u201cYou won\u2019t really die,\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 3,
+    "verse": 5,
+    "text": "for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.\u201d\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 3,
+    "verse": 6,
+    "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate; and she gave some to her husband with her, and he ate it, too.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 7,
+    "verse": 12,
+    "text": "It rained on the earth forty days and forty nights.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 7,
+    "verse": 19,
+    "text": "The waters rose very high on the earth. All the high mountains that were under the whole sky were covered.\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 9,
+    "verse": 14,
+    "text": "When I bring a cloud over the earth, that the rainbow will be seen in the cloud,\n"
+  },
+  {
+    "book_id": "GEN",
+    "book_name": "Genesis",
+    "chapter": 9,
+    "verse": 15,
+    "text": "I will remember my covenant, which is between me and you and every living creature of all flesh, and the waters will no more become a flood to destroy all flesh.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 12,
+    "verse": 13,
+    "text": "The blood shall be to you for a token on the houses where you are: and when I see the blood, I will pass over you, and there shall no plague be on you to destroy you, when I strike the land of Egypt.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 3,
+    "text": "\u201cYou shall have no other gods before me.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 4,
+    "text": "\u201cYou shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth:\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 5,
+    "text": "you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 6,
+    "text": "and showing loving kindness to thousands of those who love me and keep my commandments.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 7,
+    "text": "\u201cYou shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 8,
+    "text": "\u201cRemember the Sabbath day, to keep it holy.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 9,
+    "text": "You shall labor six days, and do all your work,\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 10,
+    "text": "but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 11,
+    "text": "for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 12,
+    "text": "\u201cHonor your father and your mother, that your days may be long in the land which Yahweh your God gives you.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 13,
+    "text": "\u201cYou shall not murder.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 14,
+    "text": "\u201cYou shall not commit adultery.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 15,
+    "text": "\u201cYou shall not steal.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 16,
+    "text": "\u201cYou shall not give false testimony against your neighbor.\n"
+  },
+  {
+    "book_id": "EXO",
+    "book_name": "Exodus",
+    "chapter": 20,
+    "verse": 17,
+    "text": "\u201cYou shall not covet your neighbor\u2019s house. You shall not covet your neighbor\u2019s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor\u2019s.\u201d\n"
+  },
+  {
+    "book_id": "JOS",
+    "book_name": "Joshua",
+    "chapter": 1,
+    "verse": 9,
+    "text": "Haven\u2019t I commanded you? Be strong and courageous. Don\u2019t be afraid. Don\u2019t be dismayed, for Yahweh your God is with you wherever you go.\u201d\n"
+  },
+  {
+    "book_id": "JOS",
+    "book_name": "Joshua",
+    "chapter": 24,
+    "verse": 15,
+    "text": "If it seems evil to you to serve Yahweh, choose today whom you will serve; whether the gods which your fathers served that were beyond the River, or the gods of the Amorites, in whose land you dwell; but as for me and my house, we will serve Yahweh.\u201d\n"
+  },
+  {
+    "book_id": "1SA",
+    "book_name": "1 Samuel",
+    "chapter": 16,
+    "verse": 7,
+    "text": "But Yahweh said to Samuel, \u201cDon\u2019t look on his face, or on the height of his stature, because I have rejected him; for I don\u2019t see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.\u201d\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 1,
+    "verse": 1,
+    "text": "Blessed is the man who doesn\u2019t walk in the counsel of the wicked,\nnor stand on the path of sinners,\nnor sit in the seat of scoffers;\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 1,
+    "verse": 6,
+    "text": "For Yahweh knows the way of the righteous,\nbut the way of the wicked shall perish.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 19,
+    "verse": 14,
+    "text": "Let the words of my mouth and the meditation of my heart\nbe acceptable in your sight,\nYahweh, my rock, and my redeemer.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 1,
+    "text": "Yahweh is my shepherd:\nI shall lack nothing.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 2,
+    "text": "He makes me lie down in green pastures.\nHe leads me beside still waters.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 3,
+    "text": "He restores my soul.\nHe guides me in the paths of righteousness for his name\u2019s sake.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 4,
+    "text": "Even though I walk through the valley of the shadow of death,\nI will fear no evil, for you are with me.\nYour rod and your staff,\nthey comfort me.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 5,
+    "text": "You prepare a table before me\nin the presence of my enemies.\nYou anoint my head with oil.\nMy cup runs over.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 23,
+    "verse": 6,
+    "text": "Surely goodness and loving kindness shall follow me all the days of my life,\nand I will dwell in Yahweh\u2019s house forever.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 32,
+    "verse": 8,
+    "text": "I will instruct you and teach you in the way which you shall go.\nI will counsel you with my eye on you.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 33,
+    "verse": 6,
+    "text": "By Yahweh\u2019s word, the heavens were made;\nall their army by the breath of his mouth.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 33,
+    "verse": 9,
+    "text": "For he spoke, and it was done.\nHe commanded, and it stood firm.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 34,
+    "verse": 7,
+    "text": "Yahweh\u2019s angel encamps around those who fear him,\nand delivers them.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 37,
+    "verse": 4,
+    "text": "Also delight yourself in Yahweh,\nand he will give you the desires of your heart.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 37,
+    "verse": 5,
+    "text": "Commit your way to Yahweh.\nTrust also in him, and he will do this:\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 46,
+    "verse": 10,
+    "text": "\u201cBe still, and know that I am God.\nI will be exalted among the nations.\nI will be exalted in the earth.\u201d\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 56,
+    "verse": 3,
+    "text": "When I am afraid,\nI will put my trust in you.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 66,
+    "verse": 18,
+    "text": "If I cherished sin in my heart,\nthe Lord wouldn\u2019t have listened.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 85,
+    "verse": 12,
+    "text": "Yes, Yahweh will give that which is good.\nOur land will yield its increase.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 95,
+    "verse": 1,
+    "text": "Oh come, let\u2019s sing to Yahweh.\nLet\u2019s shout aloud to the rock of our salvation!\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 95,
+    "verse": 2,
+    "text": "Let\u2019s come before his presence with thanksgiving.\nLet\u2019s extol him with songs!\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 95,
+    "verse": 3,
+    "text": "For Yahweh is a great God,\na great King above all gods.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 96,
+    "verse": 2,
+    "text": "Sing to Yahweh!\nBless his name!\nProclaim his salvation from day to day!\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 118,
+    "verse": 1,
+    "text": "Give thanks to Yahweh, for he is good,\nfor his loving kindness endures forever.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 10,
+    "text": "With my whole heart, I have sought you.\nDon\u2019t let me wander from your commandments.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 11,
+    "text": "I have hidden your word in my heart,\nthat I might not sin against you.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 59,
+    "text": "I considered my ways,\nand turned my steps to your statutes.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 60,
+    "text": "I will hurry, and not delay,\nto obey your commandments.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 103,
+    "text": "How sweet are your promises to my taste,\nmore than honey to my mouth!\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 104,
+    "text": "Through your precepts, I get understanding;\ntherefore I hate every false way.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 119,
+    "verse": 105,
+    "text": "Your word is a lamp to my feet,\nand a light for my path.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 139,
+    "verse": 13,
+    "text": "For you formed my inmost being.\nYou knit me together in my mother\u2019s womb.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 139,
+    "verse": 15,
+    "text": "My frame wasn\u2019t hidden from you,\nwhen I was made in secret,\nwoven together in the depths of the earth.\n"
+  },
+  {
+    "book_id": "PSA",
+    "book_name": "Psalms",
+    "chapter": 147,
+    "verse": 5,
+    "text": "Great is our Lord, and mighty in power.\nHis understanding is infinite.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 1,
+    "verse": 10,
+    "text": "My son, if sinners entice you,\ndon\u2019t consent.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 1,
+    "verse": 15,
+    "text": "My son, don\u2019t walk on the path with them.\nKeep your foot from their path,\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 2,
+    "verse": 4,
+    "text": "If you seek her as silver,\nand search for her as for hidden treasures:\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 2,
+    "verse": 5,
+    "text": "then you will understand the fear of Yahweh,\nand find the knowledge of God.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 4,
+    "verse": 23,
+    "text": "Keep your heart with all diligence,\nfor out of it is the wellspring of life.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 4,
+    "verse": 24,
+    "text": "Put away from yourself a perverse mouth.\nPut corrupt lips far from you.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 4,
+    "verse": 25,
+    "text": "Let your eyes look straight ahead.\nFix your gaze directly before you.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 16,
+    "text": "There are six things which Yahweh hates;\nyes, seven which are an abomination to him:\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 17,
+    "text": "haughty eyes, a lying tongue,\nhands that shed innocent blood;\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 18,
+    "text": "a heart that devises wicked schemes,\nfeet that are swift in running to mischief,\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 19,
+    "text": "a false witness who utters lies,\nand he who sows discord among brothers.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 20,
+    "text": "My son, keep your father\u2019s commandment,\nand don\u2019t forsake your mother\u2019s teaching.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 6,
+    "verse": 21,
+    "text": "Bind them continually on your heart.\nTie them around your neck.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 12,
+    "verse": 22,
+    "text": "Lying lips are an abomination to Yahweh,\nbut those who do the truth are his delight.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 13,
+    "verse": 20,
+    "text": "One who walks with wise men grows wise,\nbut a companion of fools suffers harm.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 16,
+    "verse": 7,
+    "text": "When a man\u2019s ways please Yahweh,\nhe makes even his enemies to be at peace with him.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 16,
+    "verse": 9,
+    "text": "A man\u2019s heart plans his course,\nbut Yahweh directs his steps.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 20,
+    "verse": 11,
+    "text": "Even a child makes himself known by his doings,\nwhether his work is pure, and whether it is right.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 22,
+    "verse": 17,
+    "text": "Turn your ear, and listen to the words of the wise.\nApply your heart to my teaching.\n"
+  },
+  {
+    "book_id": "PRO",
+    "book_name": "Proverbs",
+    "chapter": 30,
+    "verse": 5,
+    "text": "\u201cEvery word of God is flawless.\nHe is a shield to those who take refuge in him.\n"
+  },
+  {
+    "book_id": "ECC",
+    "book_name": "Ecclesiastes",
+    "chapter": 12,
+    "verse": 13,
+    "text": "This is the end of the matter. All has been heard. Fear God, and keep his commandments; for this is the whole duty of man.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 6,
+    "verse": 3,
+    "text": "One called to another, and said,\n\u201cHoly, holy, holy, is Yahweh of Armies!\nThe whole earth is full of his glory!\u201d\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 6,
+    "verse": 8,
+    "text": "I heard the Lord\u2019s voice, saying, \u201cWhom shall I send, and who will go for us?\u201d\nThen I said, \u201cHere I am. Send me!\u201d\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 7,
+    "verse": 14,
+    "text": "Therefore the Lord himself will give you a sign. Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 9,
+    "verse": 6,
+    "text": "For to us a child is born. To us a son is given; and the government will be on his shoulders. His name will be called Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 40,
+    "verse": 26,
+    "text": "Lift up your eyes on high,\nand see who has created these,\nwho brings out their army by number.\nHe calls them all by name.\nby the greatness of his might,\nand because he is strong in power,\nNot one is lacking.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 40,
+    "verse": 28,
+    "text": "Haven\u2019t you known?\nHaven\u2019t you heard?\nThe everlasting God, Yahweh,\nThe Creator of the ends of the earth, doesn\u2019t faint.\nHe isn\u2019t weary.\nHis understanding is unsearchable.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 43,
+    "verse": 10,
+    "text": "\u201cYou are my witnesses,\u201d says Yahweh,\n\u201cWith my servant whom I have chosen;\nthat you may know and believe me,\nand understand that I am he.\nBefore me there was no God formed,\nneither will there be after me.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 53,
+    "verse": 4,
+    "text": "Surely he has borne our sickness,\nand carried our suffering;\nyet we considered him plagued,\nstruck by God, and afflicted.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 53,
+    "verse": 5,
+    "text": "But he was pierced for our transgressions.\nHe was crushed for our iniquities.\nThe punishment that brought our peace was on him;\nand by his wounds we are healed.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 53,
+    "verse": 6,
+    "text": "All we like sheep have gone astray.\nEveryone has turned to his own way;\nand Yahweh has laid on him the iniquity of us all.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 55,
+    "verse": 10,
+    "text": "For as the rain comes down and the snow from the sky,\nand doesn\u2019t return there, but waters the earth,\nand makes it grow and bud,\nand gives seed to the sower and bread to the eater;\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 55,
+    "verse": 11,
+    "text": "so is my word that goes out of my mouth:\nit will not return to me void,\nbut it will accomplish that which I please,\nand it will prosper in the thing I sent it to do.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 64,
+    "verse": 6,
+    "text": "For we have all become like one who is unclean,\nand all our righteousness is like a polluted garment.\nWe all fade like a leaf;\nand our iniquities, like the wind, take us away.\n"
+  },
+  {
+    "book_id": "ISA",
+    "book_name": "Isaiah",
+    "chapter": 66,
+    "verse": 1,
+    "text": "Yahweh says,\n\u201cHeaven is my throne, and the earth is my footstool.\nWhat kind of house will you build to me?\nWhere will I rest?\n"
+  },
+  {
+    "book_id": "JER",
+    "book_name": "Jeremiah",
+    "chapter": 15,
+    "verse": 16,
+    "text": "Your words were found,\nand I ate them.\nYour words were to me a joy and the rejoicing of my heart,\nfor I am called by your name, Yahweh, God of Armies.\n"
+  },
+  {
+    "book_id": "JER",
+    "book_name": "Jeremiah",
+    "chapter": 17,
+    "verse": 9,
+    "text": "The heart is deceitful above all things\nand it is exceedingly corrupt.\nWho can know it?\n"
+  },
+  {
+    "book_id": "JER",
+    "book_name": "Jeremiah",
+    "chapter": 32,
+    "verse": 27,
+    "text": "\u201cBehold, I am Yahweh, the God of all flesh. Is there anything too hard for me?\n"
+  },
+  {
+    "book_id": "JER",
+    "book_name": "Jeremiah",
+    "chapter": 33,
+    "verse": 3,
+    "text": "\u2018Call to me, and I will answer you, and will show you great and difficult things, which you don\u2019t know.\u2019\n"
+  },
+  {
+    "book_id": "MIC",
+    "book_name": "Micah",
+    "chapter": 5,
+    "verse": 2,
+    "text": "But you, Bethlehem Ephrathah,\nbeing small among the clans of Judah,\nout of you one will come out to me that is to be ruler in Israel;\nwhose goings out are from of old, from ancient times.\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 1,
+    "verse": 21,
+    "text": "She shall give birth to a son. You shall call his name Jesus, for it is he who shall save his people from their sins.\u201d\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 4,
+    "verse": 4,
+    "text": "But he answered,\n\u201cIt is written, \u2018Man shall not live by bread alone, but by every word that proceeds out of the mouth of God.\u2019\u201d\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 5,
+    "verse": 14,
+    "text": "\nYou are the light of the world. A city located on a hill can\u2019t be hidden.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 5,
+    "verse": 15,
+    "text": "\nNeither do you light a lamp, and put it under a measuring basket, but on a stand; and it shines to all who are in the house.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 5,
+    "verse": 16,
+    "text": "\nEven so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 5,
+    "verse": 18,
+    "text": "\nFor most certainly, I tell you, until heaven and earth pass away, not even one smallest letter\nor one tiny pen stroke\nshall in any way pass away from the law, until all things are accomplished.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 5,
+    "verse": 48,
+    "text": "\nTherefore you shall be perfect, just as your Father in heaven is perfect.\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 9,
+    "text": "\nPray like this: \u2018Our Father in heaven, may your name be kept holy.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 10,
+    "text": "\nLet your Kingdom come. Let your will be done, as in heaven, so on earth.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 11,
+    "text": "\nGive us today our daily bread.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 12,
+    "text": "\nForgive us our debts, as we also forgive our debtors.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 13,
+    "text": "\nBring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.\u2019\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 6,
+    "verse": 24,
+    "text": "\n\u201cNo one can serve two masters, for either he will hate the one and love the other; or else he will be devoted to one and despise the other. You can\u2019t serve both God and Mammon.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 9,
+    "verse": 36,
+    "text": "But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 13,
+    "verse": 49,
+    "text": "\nSo will it be in the end of the world. The angels will come and separate the wicked from among the righteous,\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 13,
+    "verse": 50,
+    "text": "\nand will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.\u201d\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 22,
+    "verse": 37,
+    "text": "Jesus said to him,\n\u201c\u2018You shall love the Lord your God with all your heart, with all your soul, and with all your mind.\u2019\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 22,
+    "verse": 38,
+    "text": "\nThis is the first and great commandment.\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 25,
+    "verse": 41,
+    "text": "\nThen he will say also to those on the left hand, \u2018Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 25,
+    "verse": 46,
+    "text": "\nThese will go away into eternal punishment, but the righteous into eternal life.\u201d\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 28,
+    "verse": 6,
+    "text": "He is not here, for he has risen, just like he said. Come, see the place where the Lord was lying.\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 28,
+    "verse": 19,
+    "text": "\nGo\nand make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,\n\n"
+  },
+  {
+    "book_id": "MAT",
+    "book_name": "Matthew",
+    "chapter": 28,
+    "verse": 20,
+    "text": "\nteaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.\u201d Amen.\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 1,
+    "verse": 9,
+    "text": "In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 1,
+    "verse": 10,
+    "text": "Immediately coming up from the water, he saw the heavens parting, and the Spirit descending on him like a dove.\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 1,
+    "verse": 11,
+    "text": "A voice came out of the sky, \u201cYou are my beloved Son, in whom I am well pleased.\u201d\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 10,
+    "verse": 24,
+    "text": "The disciples were amazed at his words. But Jesus answered again,\n\u201cChildren, how hard is it for those who trust in riches to enter into God\u2019s Kingdom!\n\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 10,
+    "verse": 43,
+    "text": "\nBut it shall not be so among you, but whoever wants to become great among you shall be your servant.\n\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 10,
+    "verse": 44,
+    "text": "\nWhoever of you wants to become first among you, shall be bondservant of all.\n\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 16,
+    "verse": 15,
+    "text": "He said to them,\n\u201cGo into all the world, and preach the Good News to the whole creation.\n\n"
+  },
+  {
+    "book_id": "MRK",
+    "book_name": "Mark",
+    "chapter": 16,
+    "verse": 19,
+    "text": "So then the Lord, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 2,
+    "verse": 1,
+    "text": "Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 2,
+    "verse": 2,
+    "text": "This was the first enrollment made when Quirinius was governor of Syria.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 2,
+    "verse": 3,
+    "text": "All went to enroll themselves, everyone to his own city.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 2,
+    "verse": 11,
+    "text": "For there is born to you today, in David\u2019s city, a Savior, who is Christ the Lord.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 6,
+    "verse": 45,
+    "text": "\nThe good man out of the good treasure of his heart brings out that which is good, and the evil man out of the evil treasure of his heart brings out that which is evil, for out of the abundance of the heart, his mouth speaks.\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 11,
+    "verse": 28,
+    "text": "But he said,\n\u201cOn the contrary, blessed are those who hear the word of God, and keep it.\u201d\n"
+  },
+  {
+    "book_id": "LUK",
+    "book_name": "Luke",
+    "chapter": 19,
+    "verse": 10,
+    "text": "\nFor the Son of Man came to seek and to save that which was lost.\u201d\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 2,
+    "text": "The same was in the beginning with God.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 3,
+    "text": "All things were made through him. Without him was not anything made that has been made.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 4,
+    "text": "In him was life, and the life was the light of men.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 12,
+    "text": "But as many as received him, to them he gave the right to become God\u2019s children, to those who believe in his name:\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 14,
+    "text": "The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 1,
+    "verse": 29,
+    "text": "The next day, he saw Jesus coming to him, and said, \u201cBehold, the Lamb of God, who takes away the sin of the world!\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 3,
+    "text": "Jesus answered him,\n\u201cMost certainly, I tell you, unless one is born anew,\n\nhe can\u2019t see God\u2019s Kingdom.\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 6,
+    "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 7,
+    "text": "\nDon\u2019t marvel that I said to you, \u2018You must be born anew.\u2019\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 14,
+    "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 15,
+    "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 16,
+    "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 17,
+    "text": "\nFor God didn\u2019t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 18,
+    "text": "\nHe who believes in him is not judged. He who doesn\u2019t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 19,
+    "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 3,
+    "verse": 36,
+    "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won\u2019t see life, but the wrath of God remains on him.\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 5,
+    "verse": 24,
+    "text": "\n\u201cMost certainly I tell you, he who hears my word, and believes him who sent me, has eternal life, and doesn\u2019t come into judgment, but has passed out of death into life.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 5,
+    "verse": 28,
+    "text": "\nDon\u2019t marvel at this, for the hour comes, in which all that are in the tombs will hear his voice,\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 5,
+    "verse": 29,
+    "text": "\nand will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 6,
+    "verse": 37,
+    "text": "\nAll those whom the Father gives me will come to me. He who comes to me I will in no way throw out.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 6,
+    "verse": 38,
+    "text": "\nFor I have come down from heaven, not to do my own will, but the will of him who sent me.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 6,
+    "verse": 47,
+    "text": "\nMost certainly, I tell you, he who believes in me has eternal life.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 6,
+    "verse": 69,
+    "text": "We have come to believe and know that you are the Christ, the Son of the living God.\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 8,
+    "verse": 34,
+    "text": "Jesus answered them,\n\u201cMost certainly I tell you, everyone who commits sin is the bondservant of sin.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 10,
+    "verse": 10,
+    "text": "\nThe thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 10,
+    "verse": 27,
+    "text": "\nMy sheep hear my voice, and I know them, and they follow me.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 10,
+    "verse": 28,
+    "text": "\nI give eternal life to them. They will never perish, and no one will snatch them out of my hand.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 10,
+    "verse": 29,
+    "text": "\nMy Father, who has given them to me, is greater than all. No one is able to snatch them out of my Father\u2019s hand.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 11,
+    "verse": 25,
+    "text": "Jesus said to her,\n\u201cI am the resurrection and the life. He who believes in me will still live, even if he dies.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 11,
+    "verse": 26,
+    "text": "\nWhoever lives and believes in me will never die. Do you believe this?\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 13,
+    "verse": 34,
+    "text": "\nA new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 1,
+    "text": "\n\u201cDon\u2019t let your heart be troubled. Believe in God. Believe also in me.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 2,
+    "text": "\nIn my Father\u2019s house are many homes. If it weren\u2019t so, I would have told you. I am going to prepare a place for you.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 3,
+    "text": "\nIf I go and prepare a place for you, I will come again, and will receive you to myself; that where I am, you may be there also.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 4,
+    "text": "\nWhere I go, you know, and you know the way.\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 5,
+    "text": "Thomas said to him, \u201cLord, we don\u2019t know where you are going. How can we know the way?\u201d\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 6,
+    "text": "Jesus said to him,\n\u201cI am the way, the truth, and the life. No one comes to the Father, except through me.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 16,
+    "text": "\nI will pray to the Father, and he will give you another Counselor,\n\nthat he may be with you forever,\u2014\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 17,
+    "text": "\nthe Spirit of truth, whom the world can\u2019t receive; for it doesn\u2019t see him, neither knows him. You know him, for he lives with you, and will be in you.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 14,
+    "verse": 19,
+    "text": "\nYet a little while, and the world will see me no more; but you will see me. Because I live, you will live also.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 15,
+    "verse": 12,
+    "text": "\n\u201cThis is my commandment, that you love one another, even as I have loved you.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 15,
+    "verse": 16,
+    "text": "\nYou didn\u2019t choose me, but I chose you, and appointed you, that you should go and bear fruit, and that your fruit should remain; that whatever you will ask of the Father in my name, he may give it to you.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 16,
+    "verse": 7,
+    "text": "\nNevertheless I tell you the truth: It is to your advantage that I go away, for if I don\u2019t go away, the Counselor won\u2019t come to you. But if I go, I will send him to you.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 16,
+    "verse": 8,
+    "text": "\nWhen he has come, he will convict the world about sin, about righteousness, and about judgment;\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 17,
+    "verse": 3,
+    "text": "\nThis is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 17,
+    "verse": 17,
+    "text": "\nSanctify them in your truth. Your word is truth.\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 19,
+    "verse": 26,
+    "text": "Therefore when Jesus saw his mother, and the disciple whom he loved standing there, he said to his mother,\n\u201cWoman, behold, your son!\u201d\n\n"
+  },
+  {
+    "book_id": "JHN",
+    "book_name": "John",
+    "chapter": 20,
+    "verse": 31,
+    "text": "but these are written, that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.\n"
+  },
+  {
+    "book_id": "ACT",
+    "book_name": "Acts",
+    "chapter": 1,
+    "verse": 8,
+    "text": "\nBut you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.\u201d\n"
+  },
+  {
+    "book_id": "ACT",
+    "book_name": "Acts",
+    "chapter": 3,
+    "verse": 18,
+    "text": "But the things which God announced by the mouth of all his prophets, that Christ should suffer, he thus fulfilled.\n"
+  },
+  {
+    "book_id": "ACT",
+    "book_name": "Acts",
+    "chapter": 4,
+    "verse": 12,
+    "text": "There is salvation in none other, for neither is there any other name under heaven, that is given among men, by which we must be saved!\u201d\n"
+  },
+  {
+    "book_id": "ACT",
+    "book_name": "Acts",
+    "chapter": 16,
+    "verse": 31,
+    "text": "They said, \u201cBelieve in the Lord Jesus Christ, and you will be saved, you and your household.\u201d\n"
+  },
+  {
+    "book_id": "ACT",
+    "book_name": "Acts",
+    "chapter": 20,
+    "verse": 26,
+    "text": "Therefore I testify to you today that I am clean from the blood of all men,\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 1,
+    "verse": 16,
+    "text": "For I am not ashamed of the Good News of Christ, because it is the power of God for salvation for everyone who believes; for the Jew first, and also for the Greek.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 1,
+    "verse": 17,
+    "text": "For in it is revealed God\u2019s righteousness from faith to faith. As it is written, \u201cBut the righteous shall live by faith.\u201d\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 1,
+    "verse": 20,
+    "text": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, even his everlasting power and divinity; that they may be without excuse.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 2,
+    "verse": 11,
+    "text": "For there is no partiality with God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 10,
+    "text": "As it is written,\n\u201cThere is no one righteous;\nno, not one.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 11,
+    "text": "There is no one who understands.\nThere is no one who seeks after God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 12,
+    "text": "They have all turned away.\nThey have together become unprofitable.\nThere is no one who does good,\nno, not so much as one.\u201d\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 20,
+    "text": "Because by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 23,
+    "text": "for all have sinned, and fall short of the glory of God;\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 24,
+    "text": "being justified freely by his grace through the redemption that is in Christ Jesus;\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 25,
+    "text": "whom God sent to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God\u2019s forbearance;\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 26,
+    "text": "to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 28,
+    "text": "We maintain therefore that a man is justified by faith apart from the works of the law.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 3,
+    "verse": 29,
+    "text": "Or is God the God of Jews only? Isn\u2019t he the God of Gentiles also? Yes, of Gentiles also,\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 4,
+    "verse": 5,
+    "text": "But to him who doesn\u2019t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 4,
+    "verse": 25,
+    "text": "who was delivered up for our trespasses, and was raised for our justification.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 1,
+    "text": "Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 2,
+    "text": "through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 8,
+    "text": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Much more then, being now justified by his blood, we will be saved from God\u2019s wrath through him.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 12,
+    "text": "Therefore as sin entered into the world through one man, and death through sin; and so death passed to all men, because all sinned.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 5,
+    "verse": 19,
+    "text": "For as through the one man\u2019s disobedience many were made sinners, even so through the obedience of the one, many will be made righteous.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 4,
+    "text": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 5,
+    "text": "For if we have become united with him in the likeness of his death, we will also be part of his resurrection;\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 11,
+    "text": "Thus consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 12,
+    "text": "Therefore don\u2019t let sin reign in your mortal body, that you should obey it in its lusts.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 13,
+    "text": "Also, do not present your members to sin as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 14,
+    "text": "For sin will not have dominion over you. For you are not under law, but under grace.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 6,
+    "verse": 23,
+    "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 7,
+    "verse": 6,
+    "text": "But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 1,
+    "text": "There is therefore now no condemnation to those who are in Christ Jesus, who don\u2019t walk according to the flesh, but according to the Spirit.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 2,
+    "text": "For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 14,
+    "text": "For as many as are led by the Spirit of God, these are children of God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 26,
+    "text": "In the same way, the Spirit also helps our weaknesses, for we don\u2019t know how to pray as we ought. But the Spirit himself makes intercession for us with groanings which can\u2019t be uttered.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 27,
+    "text": "He who searches the hearts knows what is on the Spirit\u2019s mind, because he makes intercession for the saints according to God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 28,
+    "text": "We know that all things work together for good for those who love God, to those who are called according to his purpose.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 29,
+    "text": "For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 34,
+    "text": "Who is he who condemns? It is Christ who died, yes rather, who was raised from the dead, who is at the right hand of God, who also makes intercession for us.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 37,
+    "text": "No, in all these things, we are more than conquerors through him who loved us.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 38,
+    "text": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 8,
+    "verse": 39,
+    "text": "nor height, nor depth, nor any other created thing, will be able to separate us from God\u2019s love, which is in Christ Jesus our Lord.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 10,
+    "verse": 12,
+    "text": "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 10,
+    "verse": 13,
+    "text": "For, \u201cWhoever will call on the name of the Lord will be saved.\u201d\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 10,
+    "verse": 14,
+    "text": "How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 12,
+    "verse": 1,
+    "text": "Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 12,
+    "verse": 2,
+    "text": "Don\u2019t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 1,
+    "text": "Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 14,
+    "text": "But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 2,
+    "text": "Therefore he who resists the authority, withstands the ordinance of God; and those who withstand will receive to themselves judgment.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 7,
+    "text": "Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honor, then honor.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 8,
+    "text": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 13,
+    "verse": 9,
+    "text": "For the commandments, \u201cYou shall not commit adultery,\u201d \u201cYou shall not murder,\u201d \u201cYou shall not steal,\u201d \u201cYou shall not covet,\u201d\n and whatever other commandments there are, are all summed up in this saying, namely, \u201cYou shall love your neighbor as yourself.\u201d\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 14,
+    "verse": 19,
+    "text": "So then, let us follow after things which make for peace, and things by which we may build one another up.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 14,
+    "verse": 23,
+    "text": "But he who doubts is condemned if he eats, because it isn\u2019t of faith; and whatever is not of faith is sin.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 15,
+    "verse": 1,
+    "text": "Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 15,
+    "verse": 2,
+    "text": "Let each one of us please his neighbor for that which is good, to be building him up.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 15,
+    "verse": 3,
+    "text": "For even Christ didn\u2019t please himself. But, as it is written, \u201cThe reproaches of those who reproached you fell on me.\u201d\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 15,
+    "verse": 4,
+    "text": "For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.\n"
+  },
+  {
+    "book_id": "ROM",
+    "book_name": "Romans",
+    "chapter": 16,
+    "verse": 25,
+    "text": "\n\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 2,
+    "verse": 6,
+    "text": "We speak wisdom, however, among those who are full grown; yet a wisdom not of this world, nor of the rulers of this world, who are coming to nothing.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 2,
+    "verse": 9,
+    "text": "But as it is written,\n\u201cThings which an eye didn\u2019t see, and an ear didn\u2019t hear,\nwhich didn\u2019t enter into the heart of man,\nthese God has prepared for those who love him.\u201d\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 2,
+    "verse": 10,
+    "text": "But to us, God revealed them through the Spirit. For the Spirit searches all things, yes, the deep things of God.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 2,
+    "verse": 12,
+    "text": "But we received, not the spirit of the world, but the Spirit which is from God, that we might know the things that were freely given to us by God.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 2,
+    "verse": 14,
+    "text": "Now the natural man doesn\u2019t receive the things of God\u2019s Spirit, for they are foolishness to him, and he can\u2019t know them, because they are spiritually discerned.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 5,
+    "verse": 7,
+    "text": "Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 6,
+    "verse": 9,
+    "text": "Or don\u2019t you know that the unrighteous will not inherit God\u2019s Kingdom? Don\u2019t be deceived. Neither the sexually immoral, nor idolaters, nor adulterers, nor male prostitutes, nor homosexuals,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 6,
+    "verse": 19,
+    "text": "Or don\u2019t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 6,
+    "verse": 20,
+    "text": "for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God\u2019s.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 10,
+    "verse": 13,
+    "text": "No temptation has taken you except what is common to man. God is faithful, who will not allow you to be tempted above what you are able, but will with the temptation also make the way of escape, that you may be able to endure it.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 10,
+    "verse": 31,
+    "text": "Whether therefore you eat, or drink, or whatever you do, do all to the glory of God.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 10,
+    "verse": 32,
+    "text": "Give no occasion for stumbling, either to Jews, or to Greeks, or to the assembly of God;\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 11,
+    "verse": 24,
+    "text": "When he had given thanks, he broke it, and said,\n\u201cTake, eat. This is my body, which is broken for you. Do this in memory of me.\u201d\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 11,
+    "verse": 25,
+    "text": "In the same way he also took the cup, after supper, saying,\n\u201cThis cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.\u201d\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 12,
+    "verse": 12,
+    "text": "For as the body is one, and has many members, and all the members of the body, being many, are one body; so also is Christ.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 12,
+    "verse": 27,
+    "text": "Now you are the body of Christ, and members individually.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 1,
+    "text": "If I speak with the languages of men and of angels, but don\u2019t have love, I have become sounding brass, or a clanging cymbal.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 2,
+    "text": "If I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but don\u2019t have love, I am nothing.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 3,
+    "text": "If I give away all my goods to feed the poor, and if I give my body to be burned, but don\u2019t have love, it profits me nothing.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 4,
+    "text": "Love is patient and is kind; love doesn\u2019t envy. Love doesn\u2019t brag, is not proud,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 5,
+    "text": "doesn\u2019t behave itself inappropriately, doesn\u2019t seek its own way, is not provoked, takes no account of evil;\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 6,
+    "text": "doesn\u2019t rejoice in unrighteousness, but rejoices with the truth;\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 7,
+    "text": "bears all things, believes all things, hopes all things, endures all things.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 8,
+    "text": "Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 9,
+    "text": "For we know in part, and we prophesy in part;\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 10,
+    "text": "but when that which is complete has come, then that which is partial will be done away with.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 11,
+    "text": "When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 12,
+    "text": "For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "verse": 13,
+    "text": "But now faith, hope, and love remain\u2014these three. The greatest of these is love.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 1,
+    "text": "Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 3,
+    "text": "For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 4,
+    "text": "that he was buried, that he was raised on the third day according to the Scriptures,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 17,
+    "text": "If Christ has not been raised, your faith is vain; you are still in your sins.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 19,
+    "text": "If we have only hoped in Christ in this life, we are of all men most pitiable.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 20,
+    "text": "But now Christ has been raised from the dead. He became the first fruits of those who are asleep.\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 51,
+    "text": "Behold, I tell you a mystery. We will not all sleep, but we will all be changed,\n"
+  },
+  {
+    "book_id": "1CO",
+    "book_name": "1 Corinthians",
+    "chapter": 15,
+    "verse": 52,
+    "text": "in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we will be changed.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 5,
+    "verse": 8,
+    "text": "We are courageous, I say, and are willing rather to be absent from the body, and to be at home with the Lord.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 5,
+    "verse": 10,
+    "text": "For we must all be revealed before the judgment seat of Christ; that each one may receive the things in the body, according to what he has done, whether good or bad.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 5,
+    "verse": 20,
+    "text": "We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 5,
+    "verse": 21,
+    "text": "For him who knew no sin he made to be sin on our behalf; so that in him we might become the righteousness of God.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 6,
+    "verse": 14,
+    "text": "Don\u2019t be unequally yoked with unbelievers, for what fellowship have righteousness and iniquity? Or what fellowship has light with darkness?\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 6,
+    "verse": 15,
+    "text": "What agreement has Christ with Belial? Or what portion has a believer with an unbeliever?\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 6,
+    "verse": 16,
+    "text": "What agreement has a temple of God with idols? For you are a temple of the living God. Even as God said, \u201cI will dwell in them, and walk in them; and I will be their God, and they will be my people.\u201d\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 9,
+    "verse": 7,
+    "text": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 11,
+    "verse": 31,
+    "text": "The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don\u2019t lie.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 11,
+    "verse": 32,
+    "text": "In Damascus the governor under King Aretas guarded the Damascenes\u2019 city, desiring to arrest me.\n"
+  },
+  {
+    "book_id": "2CO",
+    "book_name": "2 Corinthians",
+    "chapter": 13,
+    "verse": 14,
+    "text": "The grace of the Lord Jesus Christ, God\u2019s love, and the fellowship of the Holy Spirit, be with you all. Amen.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 1,
+    "verse": 4,
+    "text": "who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father\u2014\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 1,
+    "verse": 8,
+    "text": "But even though we, or an angel from heaven, should preach to you any \u201cgood news\u201d other than that which we preached to you, let him be cursed.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 1,
+    "verse": 9,
+    "text": "As we have said before, so I now say again: if any man preaches to you any \u201cgood news\u201d other than that which you received, let him be cursed.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 2,
+    "verse": 20,
+    "text": "I have been crucified with Christ, and it is no longer I that live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 2,
+    "verse": 21,
+    "text": "I don\u2019t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 10,
+    "text": "For as many as are of the works of the law are under a curse. For it is written, \u201cCursed is everyone who doesn\u2019t continue in all things that are written in the book of the law, to do them.\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 11,
+    "text": "Now that no man is justified by the law before God is evident, for, \u201cThe righteous will live by faith.\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 12,
+    "text": "The law is not of faith, but, \u201cThe man who does them will live by them.\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 13,
+    "text": "Christ redeemed us from the curse of the law, having become a curse for us. For it is written, \u201cCursed is everyone who hangs on a tree,\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 23,
+    "text": "But before faith came, we were kept in custody under the law, confined for the faith which should afterwards be revealed.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 24,
+    "text": "So that the law has become our tutor to bring us to Christ, that we might be justified by faith.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 3,
+    "verse": 25,
+    "text": "But now that faith has come, we are no longer under a tutor.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 4,
+    "verse": 6,
+    "text": "And because you are children, God sent out the Spirit of his Son into your hearts, crying, \u201cAbba, Father!\u201d\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 4,
+    "verse": 7,
+    "text": "So you are no longer a bondservant, but a son; and if a son, then an heir of God through Christ.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 5,
+    "verse": 1,
+    "text": "Stand firm therefore in the liberty by which Christ has made us free, and don\u2019t be entangled again with a yoke of bondage.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 5,
+    "verse": 13,
+    "text": "For you, brothers, were called for freedom. Only don\u2019t use your freedom for gain to the flesh, but through love be servants to one another.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 5,
+    "verse": 16,
+    "text": "But I say, walk by the Spirit, and you won\u2019t fulfill the lust of the flesh.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 5,
+    "verse": 24,
+    "text": "Those who belong to Christ have crucified the flesh with its passions and lusts.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 5,
+    "verse": 25,
+    "text": "If we live by the Spirit, let\u2019s also walk by the Spirit.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 6,
+    "verse": 2,
+    "text": "Bear one another\u2019s burdens, and so fulfill the law of Christ.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 6,
+    "verse": 7,
+    "text": "Don\u2019t be deceived. God is not mocked, for whatever a man sows, that he will also reap.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 6,
+    "verse": 9,
+    "text": "Let us not be weary in doing good, for we will reap in due season, if we don\u2019t give up.\n"
+  },
+  {
+    "book_id": "GAL",
+    "book_name": "Galatians",
+    "chapter": 6,
+    "verse": 10,
+    "text": "So then, as we have opportunity, let\u2019s do what is good toward all men, and especially toward those who are of the household of the faith.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 1,
+    "verse": 3,
+    "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 1,
+    "verse": 4,
+    "text": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 1,
+    "verse": 7,
+    "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 1,
+    "verse": 13,
+    "text": "In him you also, having heard the word of the truth, the Good News of your salvation\u2014in whom, having also believed, you were sealed with the promised Holy Spirit,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 4,
+    "text": "But God, being rich in mercy, for his great love with which he loved us,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 5,
+    "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace you have been saved),\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 7,
+    "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 9,
+    "text": "not of works, that no one would boast.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 2,
+    "verse": 10,
+    "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 1,
+    "text": "I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 2,
+    "text": "with all lowliness and humility, with patience, bearing with one another in love;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 3,
+    "text": "being eager to keep the unity of the Spirit in the bond of peace.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 16,
+    "text": "from whom all the body, being fitted and knit together through that which every joint supplies, according to the working in measure of each individual part, makes the body increase to the building up of itself in love.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 25,
+    "text": "Therefore putting away falsehood, speak truth each one with his neighbor. For we are members of one another.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 28,
+    "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 30,
+    "text": "Don\u2019t grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 31,
+    "text": "Let all bitterness, wrath, anger, outcry, and slander, be put away from you, with all malice.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 4,
+    "verse": 32,
+    "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 5,
+    "verse": 16,
+    "text": "redeeming the time, because the days are evil.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Therefore don\u2019t be foolish, but understand what the will of the Lord is.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 1,
+    "text": "Children, obey your parents in the Lord, for this is right.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 2,
+    "text": "\u201cHonor your father and mother,\u201d which is the first commandment with a promise:\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 3,
+    "text": "\u201cthat it may be well with you, and you may live long on the earth.\u201d\n\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 10,
+    "text": "Finally, be strong in the Lord, and in the strength of his might.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 11,
+    "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 12,
+    "text": "For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world\u2019s rulers of the darkness of this age, and against the spiritual forces of wickedness in the heavenly places.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 13,
+    "text": "Therefore put on the whole armor of God, that you may be able to withstand in the evil day, and, having done all, to stand.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 14,
+    "text": "Stand therefore, having the utility belt of truth buckled around your waist, and having put on the breastplate of righteousness,\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 15,
+    "text": "and having fitted your feet with the preparation of the Good News of peace;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 16,
+    "text": "above all, taking up the shield of faith, with which you will be able to quench all the fiery darts of the evil one.\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 17,
+    "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 18,
+    "text": "with all prayer and requests, praying at all times in the Spirit, and being watchful to this end in all perseverance and requests for all the saints:\n"
+  },
+  {
+    "book_id": "EPH",
+    "book_name": "Ephesians",
+    "chapter": 6,
+    "verse": 19,
+    "text": "on my behalf, that utterance may be given to me in opening my mouth, to make known with boldness the mystery of the Good News,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 1,
+    "text": "If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 2,
+    "text": "make my joy full, by being like-minded, having the same love, being of one accord, of one mind;\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 3,
+    "text": "doing nothing through rivalry or through conceit, but in humility, each counting others better than himself;\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 4,
+    "text": "each of you not just looking to his own things, but each of you also to the things of others.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 5,
+    "text": "Have this in your mind, which was also in Christ Jesus,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 6,
+    "text": "who, existing in the form of God, didn\u2019t consider equality with God a thing to be grasped,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 7,
+    "text": "but emptied himself, taking the form of a servant, being made in the likeness of men.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "And being found in human form, he humbled himself, becoming obedient to death, yes, the death of the cross.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 9,
+    "text": "Therefore God also highly exalted him, and gave to him the name which is above every name;\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 10,
+    "text": "that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 11,
+    "text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 2,
+    "verse": 14,
+    "text": "Do all things without murmurings and disputes,\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 3,
+    "verse": 20,
+    "text": "For our citizenship is in heaven, from where we also wait for a Savior, the Lord Jesus Christ;\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 3,
+    "verse": 21,
+    "text": "who will change the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 4,
+    "verse": 6,
+    "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.\n"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 4,
+    "verse": 8,
+    "text": "Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about"
+  },
+  {
+    "book_id": "PHP",
+    "book_name": "Philippians",
+    "chapter": 4,
+    "verse": 13,
+    "text": "I can do all things through Christ, who strengthens me.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 1,
+    "verse": 3,
+    "text": "We give thanks to God the Father of our Lord Jesus Christ, praying always for you,\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 1,
+    "verse": 9,
+    "text": "For this cause, we also, since the day we heard this, don\u2019t cease praying and making requests for you, that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 1,
+    "verse": 10,
+    "text": "that you may walk worthily of the Lord, to please him in all respects, bearing fruit in every good work, and increasing in the knowledge of God;\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 1,
+    "verse": 14,
+    "text": "in whom we have our redemption, the forgiveness of our sins;\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 1,
+    "verse": 16,
+    "text": "For by him all things were created, in the heavens and on the earth, things visible and things invisible, whether thrones or dominions or principalities or powers; all things have been created through him, and for him.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 2,
+    "verse": 8,
+    "text": "Be careful that you don\u2019t let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elements of the world, and not after Christ.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 2,
+    "text": "Set your mind on the things that are above, not on the things that are on the earth.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 9,
+    "text": "Don\u2019t lie to one another, seeing that you have put off the old man with his doings,\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 16,
+    "text": "Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 20,
+    "text": "Children, obey your parents in all things, for this pleases the Lord.\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 23,
+    "text": "And whatever you do, work heartily, as for the Lord, and not for men,\n"
+  },
+  {
+    "book_id": "COL",
+    "book_name": "Colossians",
+    "chapter": 3,
+    "verse": 24,
+    "text": "knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 2,
+    "verse": 13,
+    "text": "For this cause we also thank God without ceasing, that, when you received from us the word of the message of God, you accepted it not as the word of men, but, as it is in truth, the word of God, which also works in you who believe.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 1,
+    "text": "Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 2,
+    "text": "For you know what instructions we gave you through the Lord Jesus.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 3,
+    "text": "For this is the will of God: your sanctification, that you abstain from sexual immorality,\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 4,
+    "text": "that each one of you know how to control his own body in sanctification and honor,\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 5,
+    "text": "not in the passion of lust, even as the Gentiles who don\u2019t know God;\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 6,
+    "text": "that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 7,
+    "text": "For God called us not for uncleanness, but in sanctification.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 16,
+    "text": "For the Lord himself will descend from heaven with a shout, with the voice of the archangel, and with God\u2019s trumpet. The dead in Christ will rise first,\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 4,
+    "verse": 17,
+    "text": "then we who are alive, who are left, will be caught up together with them in the clouds, to meet the Lord in the air. So we will be with the Lord forever.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 16,
+    "text": "Rejoice always.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 17,
+    "text": "Pray without ceasing.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 18,
+    "text": "In everything give thanks, for this is the will of God in Christ Jesus toward you.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 22,
+    "text": "Abstain from every form of evil.\n"
+  },
+  {
+    "book_id": "1TH",
+    "book_name": "1 Thessalonians",
+    "chapter": 5,
+    "verse": 25,
+    "text": "Brothers, pray for us.\n"
+  },
+  {
+    "book_id": "2TH",
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "verse": 7,
+    "text": "and to give relief to you who are afflicted with us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,\n"
+  },
+  {
+    "book_id": "2TH",
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "verse": 8,
+    "text": "punishing those who don\u2019t know God, and to those who don\u2019t obey the Good News of our Lord Jesus,\n"
+  },
+  {
+    "book_id": "2TH",
+    "book_name": "2 Thessalonians",
+    "chapter": 1,
+    "verse": 9,
+    "text": "who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might,\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 1,
+    "verse": 9,
+    "text": "as knowing this, that law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 1,
+    "verse": 15,
+    "text": "The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief.\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 2,
+    "verse": 1,
+    "text": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men:\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "text": "for kings and all who are in high places; that we may lead a tranquil and quiet life in all godliness and reverence.\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 2,
+    "verse": 5,
+    "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,\n"
+  },
+  {
+    "book_id": "1TI",
+    "book_name": "1 Timothy",
+    "chapter": 4,
+    "verse": 12,
+    "text": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 1,
+    "text": "You therefore, my child, be strengthened in the grace that is in Christ Jesus.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 2,
+    "text": "The things which you have heard from me among many witnesses, commit the same to faithful men, who will be able to teach others also.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 3,
+    "text": "You therefore must endure hardship, as a good soldier of Christ Jesus.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 4,
+    "text": "No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 5,
+    "text": "Also, if anyone competes in athletics, he isn\u2019t crowned unless he has competed by the rules.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 6,
+    "text": "The farmer who labors must be the first to get a share of the crops.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 7,
+    "text": "Consider what I say, and may the Lord give you understanding in all things.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 8,
+    "text": "Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News,\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 9,
+    "text": "in which I suffer hardship to the point of chains as a criminal. But God\u2019s word isn\u2019t chained.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 10,
+    "text": "Therefore I endure all things for the chosen ones\u2019 sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 11,
+    "text": "This saying is trustworthy:\n\u201cFor if we died with him,\nwe will also live with him.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 12,
+    "text": "If we endure,\nwe will also reign with him.\nIf we deny him,\nhe also will deny us.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 13,
+    "text": "If we are faithless,\nhe remains faithful.\nFor he can\u2019t deny himself.\u201d\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 14,
+    "text": "Remind them of these things, charging them in the sight of the Lord, that they don\u2019t argue about words, to no profit, to the subverting of those who hear.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 15,
+    "text": "Give diligence to present yourself approved by God, a workman who doesn\u2019t need to be ashamed, properly handling the Word of Truth.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "verse": 22,
+    "text": "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "verse": 16,
+    "text": "Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,\n"
+  },
+  {
+    "book_id": "2TI",
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "verse": 17,
+    "text": "that the man of God may be complete, thoroughly equipped for every good work.\n"
+  },
+  {
+    "book_id": "TIT",
+    "book_name": "Titus",
+    "chapter": 2,
+    "verse": 11,
+    "text": "For the grace of God has appeared, bringing salvation to all men,\n"
+  },
+  {
+    "book_id": "TIT",
+    "book_name": "Titus",
+    "chapter": 2,
+    "verse": 12,
+    "text": "instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;\n"
+  },
+  {
+    "book_id": "TIT",
+    "book_name": "Titus",
+    "chapter": 2,
+    "verse": 13,
+    "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ;\n"
+  },
+  {
+    "book_id": "TIT",
+    "book_name": "Titus",
+    "chapter": 2,
+    "verse": 14,
+    "text": "who gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works.\n"
+  },
+  {
+    "book_id": "TIT",
+    "book_name": "Titus",
+    "chapter": 3,
+    "verse": 5,
+    "text": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 4,
+    "verse": 12,
+    "text": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 4,
+    "verse": 16,
+    "text": "Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 7,
+    "verse": 25,
+    "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 9,
+    "verse": 22,
+    "text": "According to the law, nearly everything is cleansed with blood, and apart from shedding of blood there is no remission.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 10,
+    "verse": 4,
+    "text": "For it is impossible that the blood of bulls and goats should take away sins.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 10,
+    "verse": 24,
+    "text": "Let us consider how to provoke one another to love and good works,\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 10,
+    "verse": 25,
+    "text": "not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 11,
+    "verse": 6,
+    "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 12,
+    "verse": 1,
+    "text": "Therefore let us also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let us run with perseverance the race that is set before us,\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 12,
+    "verse": 2,
+    "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 12,
+    "verse": 6,
+    "text": "For whom the Lord loves, he chastens,\nand scourges every son whom he receives.\u201d\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 12,
+    "verse": 7,
+    "text": "It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn\u2019t discipline?\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 13,
+    "verse": 5,
+    "text": "Be free from the love of money, content with such things as you have, for he has said, \u201cI will in no way leave you, neither will I in any way forsake you.\u201d\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 13,
+    "verse": 6,
+    "text": "So that with good courage we say,\n\u201cThe Lord is my helper. I will not fear.\nWhat can man do to me?\u201d\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 13,
+    "verse": 7,
+    "text": "Remember your leaders, men who spoke to you the word of God, and considering the results of their conduct, imitate their faith.\n"
+  },
+  {
+    "book_id": "HEB",
+    "book_name": "Hebrews",
+    "chapter": 13,
+    "verse": 17,
+    "text": "Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy, and not with groaning, for that would be unprofitable for you.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 1,
+    "verse": 14,
+    "text": "But each one is tempted when he is drawn away by his own lust, and enticed.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 1,
+    "verse": 15,
+    "text": "Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, produces death.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 1,
+    "verse": 23,
+    "text": "For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror;\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 1,
+    "verse": 24,
+    "text": "for he sees himself, and goes away, and immediately forgets what kind of man he was.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 1,
+    "verse": 25,
+    "text": "But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 2,
+    "verse": 8,
+    "text": "However, if you fulfill the royal law, according to the Scripture, \u201cYou shall love your neighbor as yourself,\u201d you do well.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 2,
+    "verse": 9,
+    "text": "But if you show partiality, you commit sin, being convicted by the law as transgressors.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 2,
+    "verse": 10,
+    "text": "For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 4,
+    "verse": 4,
+    "text": "You adulterers and adulteresses, don\u2019t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 4,
+    "verse": 7,
+    "text": "Be subject therefore to God. Resist the devil, and he will flee from you.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 4,
+    "verse": 17,
+    "text": "To him therefore who knows to do good, and doesn\u2019t do it, to him it is sin.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 5,
+    "verse": 8,
+    "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.\n"
+  },
+  {
+    "book_id": "JAS",
+    "book_name": "James",
+    "chapter": 5,
+    "verse": 16,
+    "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 3,
+    "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 4,
+    "text": "to an incorruptible and undefiled inheritance that doesn\u2019t fade away, reserved in Heaven for you,\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 16,
+    "text": "because it is written, \u201cYou shall be holy; for I am holy.\u201d\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 18,
+    "text": "knowing that you were redeemed, not with corruptible things, with silver or gold, from the useless way of life handed down from your fathers,\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 19,
+    "text": "but with precious blood, as of a lamb without blemish or spot, the blood of Christ;\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "verse": 25,
+    "text": "but the Lord\u2019s word endures forever.\u201d\nThis is the word of Good News which was preached to you.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "verse": 13,
+    "text": "Therefore subject yourselves to every ordinance of man for the Lord\u2019s sake: whether to the king, as supreme;\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "verse": 15,
+    "text": "For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men:\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "verse": 21,
+    "text": "For to this you were called, because Christ also suffered for us, leaving you an example, that you should follow his steps,\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "verse": 22,
+    "text": "who did not sin, \u201cneither was deceit found in his mouth.\u201d\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "verse": 24,
+    "text": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness; by whose stripes you were healed.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 3,
+    "text": "Let your beauty be not just the outward adorning of braiding the hair, and of wearing jewels of gold, or of putting on fine clothing;\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 4,
+    "text": "but in the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is in the sight of God very precious.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 8,
+    "text": "Finally, be all like-minded, compassionate, loving as brothers, tender hearted, courteous,\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 9,
+    "text": "not rendering evil for evil, or insult for insult; but instead blessing; knowing that to this were you called, that you may inherit a blessing.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 15,
+    "text": "But sanctify the Lord God in your hearts; and always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear:\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "verse": 17,
+    "text": "For it is better, if it is God\u2019s will, that you suffer for doing well than for doing evil.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "verse": 8,
+    "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour.\n"
+  },
+  {
+    "book_id": "1PE",
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "verse": 9,
+    "text": "Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.\n"
+  },
+  {
+    "book_id": "2PE",
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "verse": 16,
+    "text": "For we did not follow cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.\n"
+  },
+  {
+    "book_id": "2PE",
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "verse": 20,
+    "text": "knowing this first, that no prophecy of Scripture is of private interpretation.\n"
+  },
+  {
+    "book_id": "2PE",
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "verse": 21,
+    "text": "For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 1,
+    "verse": 6,
+    "text": "If we say that we have fellowship with him and walk in the darkness, we lie, and don\u2019t tell the truth.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 1,
+    "verse": 7,
+    "text": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 1,
+    "verse": 8,
+    "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 1,
+    "verse": 9,
+    "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 2,
+    "verse": 3,
+    "text": "This is how we know that we know him: if we keep his commandments.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 2,
+    "verse": 4,
+    "text": "One who says, \u201cI know him,\u201d and doesn\u2019t keep his commandments, is a liar, and the truth isn\u2019t in him.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 2,
+    "verse": 15,
+    "text": "Don\u2019t love the world or the things that are in the world. If anyone loves the world, the Father\u2019s love isn\u2019t in him.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 2,
+    "verse": 16,
+    "text": "For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn\u2019t the Father\u2019s, but is the world\u2019s.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 2,
+    "verse": 17,
+    "text": "The world is passing away with its lusts, but he who does God\u2019s will remains forever.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 3,
+    "verse": 1,
+    "text": "See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn\u2019t know us, because it didn\u2019t know him.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 3,
+    "verse": 2,
+    "text": "Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that, when he is revealed, we will be like him; for we will see him just as he is.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 3,
+    "verse": 4,
+    "text": "Everyone who sins also commits lawlessness. Sin is lawlessness.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 3,
+    "verse": 23,
+    "text": "This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 7,
+    "text": "Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 10,
+    "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 11,
+    "text": "Beloved, if God loved us in this way, we also ought to love one another.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 14,
+    "text": "We have seen and testify that the Father has sent the Son as the Savior of the world.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 16,
+    "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 4,
+    "verse": 19,
+    "text": "We love him, because he first loved us.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 11,
+    "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 12,
+    "text": "He who has the Son has the life. He who doesn\u2019t have God\u2019s Son doesn\u2019t have the life.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 13,
+    "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 14,
+    "text": "This is the boldness which we have toward him, that, if we ask anything according to his will, he listens to us.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 15,
+    "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 17,
+    "text": "All unrighteousness is sin, and there is a sin not leading to death.\n"
+  },
+  {
+    "book_id": "1JN",
+    "book_name": "1 John",
+    "chapter": 5,
+    "verse": 21,
+    "text": "Little children, keep yourselves from idols.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 1,
+    "verse": 3,
+    "text": "Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is at hand.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 1,
+    "verse": 8,
+    "text": "\n\u201cI am the Alpha and the Omega,\u201d says the Lord God,\n\u201cwho is and who was and who is to come, the Almighty.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 2,
+    "verse": 19,
+    "text": "\n\u201cI know your works, your love, faith, service, patient endurance, and that your last works are more than the first.\n\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 3,
+    "verse": 15,
+    "text": "\n\u201cI know your works, that you are neither cold nor hot. I wish you were cold or hot.\n\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 3,
+    "verse": 16,
+    "text": "\nSo, because you are lukewarm, and neither hot nor cold, I will vomit you out of my mouth.\n\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 4,
+    "verse": 11,
+    "text": "\u201cWorthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created!\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 7,
+    "verse": 12,
+    "text": "saying, \u201cAmen! Blessing, glory, wisdom, thanksgiving, honor, power, and might, be to our God forever and ever! Amen.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 11,
+    "verse": 17,
+    "text": "saying: \u201cWe give you thanks, Lord God, the Almighty, the one who is and who was; because you have taken your great power, and reigned.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 12,
+    "verse": 10,
+    "text": "I heard a loud voice in heaven, saying, \u201cNow the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 15,
+    "verse": 3,
+    "text": "They sang the song of Moses, the servant of God, and the song of the Lamb, saying,\n\u201cGreat and marvelous are your works, Lord God, the Almighty!\nRighteous and true are your ways, you King of the nations.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 15,
+    "verse": 4,
+    "text": "Who wouldn\u2019t fear you, Lord,\nand glorify your name?\nFor you only are holy.\nFor all the nations will come and worship before you.\nFor your righteous acts have been revealed.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 18,
+    "verse": 5,
+    "text": "for her sins have reached to the sky, and God has remembered her iniquities.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 19,
+    "verse": 6,
+    "text": "I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, \u201cHallelujah! For the Lord our God, the Almighty, reigns!\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 19,
+    "verse": 7,
+    "text": "Let us rejoice and be exceedingly glad, and let us give the glory to him. For the marriage of the Lamb has come, and his wife has made herself ready.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 19,
+    "verse": 16,
+    "text": "He has on his garment and on his thigh a name written, \u201cKING OF KINGS, AND LORD OF LORDS.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 20,
+    "verse": 10,
+    "text": "The devil who deceived them was thrown into the lake of fire and sulfur, where the beast and the false prophet are also. They will be tormented day and night forever and ever.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 20,
+    "verse": 12,
+    "text": "I saw the dead, the great and the small, standing before the throne, and they opened books. Another book was opened, which is the book of life. The dead were judged out of the things which were written in the books, according to their works.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 20,
+    "verse": 15,
+    "text": "If anyone was not found written in the book of life, he was cast into the lake of fire.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 21,
+    "verse": 1,
+    "text": "I saw a new heaven and a new earth: for the first heaven and the first earth have passed away, and the sea is no more.\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 21,
+    "verse": 4,
+    "text": "He will wipe away every tear from their eyes. Death will be no more; neither will there be mourning, nor crying, nor pain, any more. The first things have passed away.\u201d\n"
+  },
+  {
+    "book_id": "REV",
+    "book_name": "Revelation",
+    "chapter": 21,
+    "verse": 6,
+    "text": "He said to me,\n\u201cI have become the Alpha and the Omega, the Beginning and the End. I will give freely to him who is thirsty from the spring of the water of life.\n\n"
+  }
+]

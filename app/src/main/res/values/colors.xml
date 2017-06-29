@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#B92A2A</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+    <!--<color name="colorPrimary">#B92A2A</color>
+    <color name="colorPrimaryDark">#A22525</color>
+    <color name="colorAccent">#607d8b</color>-->
+
+    <!--<color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#607D8B</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="white">@android:color/white</color>
+
+    <color name="colorPrimaryAccent">#10F44336</color>-->
+
+
+    <!--<color name="colorPrimary">#d32f2f</color>-->
+    <color name="colorPrimary">@color/colorPrimaryDark</color>
+    <color name="colorPrimaryDark">#9a0007</color>
+    <color name="colorPrimaryLight">#ff6659</color>
+    <color name="colorAccent">#607d8b</color>
+    <color name="colorAccentDark">#34515e</color>
+    <color name="colorAccentLight">#8eacbb</color>
+    <color name="colorPrimaryText">#ffffff</color>
+    <color name="colorSecondaryText">#000000</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="white">@android:color/white</color>
+
+    <color name="colorPrimaryAccent">#10F44336</color>
+</resources>

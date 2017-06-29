@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bible_verse_array">
+        <item>Genesis 1:1</item>
+        <item>Genesis 2:4</item>
+        <item>Genesis 2:7</item>
+        <item>Genesis 2:16</item>
+        <item>Genesis 2:17</item>
+        <item>Genesis 3:4</item>
+        <item>Genesis 3:5</item>
+        <item>Genesis 3:6</item>
+        <item>Genesis 7:12</item>
+        <item>Genesis 7:19</item>
+        <item>Genesis 9:14</item>
+        <item>Genesis 9:15</item>
+        <item>Exodus 12:13</item>
+        <item>Exodus 20:3</item>
+        <item>Exodus 20:4</item>
+        <item>Exodus 20:5</item>
+        <item>Exodus 20:6</item>
+        <item>Exodus 20:7</item>
+        <item>Exodus 20:8</item>
+        <item>Exodus 20:9</item>
+        <item>Exodus 20:10</item>
+        <item>Exodus 20:11</item>
+        <item>Exodus 20:12</item>
+        <item>Exodus 20:13</item>
+        <item>Exodus 20:14</item>
+        <item>Exodus 20:15</item>
+        <item>Exodus 20:16</item>
+        <item>Exodus 20:17</item>
+        <item>Joshua 1:9</item>
+        <item>Joshua 24:15</item>
+        <item>I Samuel 16:7</item>
+        <item>Psalms 1:1</item>
+        <item>Psalms 1:6</item>
+        <item>Psalms 19:14</item>
+        <item>Psalms 23:1</item>
+        <item>Psalms 23:2</item>
+        <item>Psalms 23:3</item>
+        <item>Psalms 23:4</item>
+        <item>Psalms 23:5</item>
+        <item>Psalms 23:6</item>
+        <item>Psalms 32:8</item>
+        <item>Psalms 33:6</item>
+        <item>Psalms 33:9</item>
+        <item>Psalms 34:7</item>
+        <item>Psalms 37:4</item>
+        <item>Psalms 37:5</item>
+        <item>Psalms 46:10</item>
+        <item>Psalms 56:3</item>
+        <item>Psalms 66:18</item>
+        <item>Psalms 85:12</item>
+        <item>Psalms 95:1</item>
+        <item>Psalms 95:2</item>
+        <item>Psalms 95:3</item>
+        <item>Psalms 96:2</item>
+        <item>Psalms 118:1</item>
+        <item>Psalms 119:10</item>
+        <item>Psalms 119:11</item>
+        <item>Psalms 119:59</item>
+        <item>Psalms 119:60</item>
+        <item>Psalms 119:103</item>
+        <item>Psalms 119:104</item>
+        <item>Psalms 119:105</item>
+        <item>Psalms 139:13</item>
+        <item>Psalms 139:15</item>
+        <item>Psalms 147:5</item>
+        <item>Proverbs 1:10</item>
+        <item>Proverbs 1:15</item>
+        <item>Proverbs 2:4</item>
+        <item>Proverbs 2:5</item>
+        <item>Proverbs 4:23</item>
+        <item>Proverbs 4:24</item>
+        <item>Proverbs 4:25</item>
+        <item>Proverbs 6:16</item>
+        <item>Proverbs 6:17</item>
+        <item>Proverbs 6:18</item>
+        <item>Proverbs 6:19</item>
+        <item>Proverbs 6:20</item>
+        <item>Proverbs 6:21</item>
+        <item>Proverbs 12:22</item>
+        <item>Proverbs 13:20</item>
+        <item>Proverbs 16:7</item>
+        <item>Proverbs 16:9</item>
+        <item>Proverbs 20:11</item>
+        <item>Proverbs 22:17</item>
+        <item>Proverbs 30:5</item>
+        <item>Ecclesiastes 12:13</item>
+        <item>Isaiah 6:3</item>
+        <item>Isaiah 6:8</item>
+        <item>Isaiah 7:14</item>
+        <item>Isaiah 9:6</item>
+        <item>Isaiah 40:26</item>
+        <item>Isaiah 40:28</item>
+        <item>Isaiah 43:10</item>
+        <item>Isaiah 53:4</item>
+        <item>Isaiah 53:5</item>
+        <item>Isaiah 53:6</item>
+        <item>Isaiah 55:10</item>
+        <item>Isaiah 55:11</item>
+        <item>Isaiah 64:6</item>
+        <item>Isaiah 66:1</item>
+        <item>Jeremiah 15:16</item>
+        <item>Jeremiah 17:9</item>
+        <item>Jeremiah 32:27</item>
+        <item>Jeremiah 33:3</item>
+        <item>Micah 5:2</item>
+        <item>Matthew 1:21</item>
+        <item>Matthew 4:4</item>
+        <item>Matthew 5:14</item>
+        <item>Matthew 5:15</item>
+        <item>Matthew 5:16</item>
+        <item>Matthew 5:18</item>
+        <item>Matthew 5:48</item>
+        <item>Matthew 6:9</item>
+        <item>Matthew 6:10</item>
+        <item>Matthew 6:11</item>
+        <item>Matthew 6:12</item>
+        <item>Matthew 6:13</item>
+        <item>Matthew 6:24</item>
+        <item>Matthew 9:36</item>
+        <item>Matthew 13:49</item>
+        <item>Matthew 13:50</item>
+        <item>Matthew 22:37</item>
+        <item>Matthew 22:38</item>
+        <item>Matthew 25:41</item>
+        <item>Matthew 25:46</item>
+        <item>Matthew 28:6</item>
+        <item>Matthew 28:19</item>
+        <item>Matthew 28:20</item>
+        <item>Mark 1:9</item>
+        <item>Mark 1:10</item>
+        <item>Mark 1:11</item>
+        <item>Mark 10:24</item>
+        <item>Mark 10:43</item>
+        <item>Mark 10:44</item>
+        <item>Mark 11:45</item>
+        <item>Mark 16:15</item>
+        <item>Mark 16:19</item>
+        <item>Luke 2:1</item>
+        <item>Luke 2:2</item>
+        <item>Luke 2:3</item>
+        <item>Luke 2:11</item>
+        <item>Luke 6:45</item>
+        <item>Luke 11:28</item>
+        <item>Luke 19:10</item>
+        <item>John 1:1</item>
+        <item>John 1:2</item>
+        <item>John 1:3</item>
+        <item>John 1:4</item>
+        <item>John 1:12</item>
+        <item>John 1:14</item>
+        <item>John 1:29</item>
+        <item>John 3:3</item>
+        <item>John 3:6</item>
+        <item>John 3:7</item>
+        <item>John 3:14</item>
+        <item>John 3:15</item>
+        <item>John 3:16</item>
+        <item>John 3:17</item>
+        <item>John 3:18</item>
+        <item>John 3:19</item>
+        <item>John 3:36</item>
+        <item>John 5:24</item>
+        <item>John 5:28</item>
+        <item>John 5:29</item>
+        <item>John 6:37</item>
+        <item>John 6:38</item>
+        <item>John 6:47</item>
+        <item>John 6:69</item>
+        <item>John 8:34</item>
+        <item>John 10:10</item>
+        <item>John 10:27</item>
+        <item>John 10:28</item>
+        <item>John 10:29</item>
+        <item>John 11:25</item>
+        <item>John 11:26</item>
+        <item>John 13:34</item>
+        <item>John 14:1</item>
+        <item>John 14:2</item>
+        <item>John 14:3</item>
+        <item>John 14:4</item>
+        <item>John 14:5</item>
+        <item>John 14:6</item>
+        <item>John 14:16</item>
+        <item>John 14:17</item>
+        <item>John 14:19</item>
+        <item>John 15:12</item>
+        <item>John 15:16</item>
+        <item>John 16:7</item>
+        <item>John 16:8</item>
+        <item>John 17:3</item>
+        <item>John 17:17</item>
+        <item>John 19:26</item>
+        <item>John 20:31</item>
+        <item>Acts 1:8</item>
+        <item>Acts 3:18</item>
+        <item>Acts 4:12</item>
+        <item>Acts 16:31</item>
+        <item>Acts 20:26</item>
+        <item>Romans 1:16</item>
+        <item>Romans 1:17</item>
+        <item>Romans 1:20</item>
+        <item>Romans 2:11</item>
+        <item>Romans 3:10</item>
+        <item>Romans 3:11</item>
+        <item>Romans 3:12</item>
+        <item>Romans 3:20</item>
+        <item>Romans 3:23</item>
+        <item>Romans 3:24</item>
+        <item>Romans 3:25</item>
+        <item>Romans 3:26</item>
+        <item>Romans 3:28</item>
+        <item>Romans 3:29</item>
+        <item>Romans 4:5</item>
+        <item>Romans 4:25</item>
+        <item>Romans 5:1</item>
+        <item>Romans 5:2</item>
+        <item>Romans 5:8</item>
+        <item>Romans 5:9</item>
+        <item>Romans 5:12</item>
+        <item>Romans 5:19</item>
+        <item>Romans 6:4</item>
+        <item>Romans 6:5</item>
+        <item>Romans 6:11</item>
+        <item>Romans 6:12</item>
+        <item>Romans 6:13</item>
+        <item>Romans 6:14</item>
+        <item>Romans 6:23</item>
+        <item>Romans 7:6</item>
+        <item>Romans 8:1</item>
+        <item>Romans 8:2</item>
+        <item>Romans 8:14</item>
+        <item>Romans 8:26</item>
+        <item>Romans 8:27</item>
+        <item>Romans 8:28</item>
+        <item>Romans 8:29</item>
+        <item>Romans 8:34</item>
+        <item>Romans 8:37</item>
+        <item>Romans 8:38</item>
+        <item>Romans 8:39</item>
+        <item>Romans 10:12</item>
+        <item>Romans 10:13</item>
+        <item>Romans 10:14</item>
+        <item>Romans 12:1</item>
+        <item>Romans 12:2</item>
+        <item>Romans 13:1</item>
+        <item>Romans 13:14</item>
+        <item>Romans 13:2</item>
+        <item>Romans 13:7</item>
+        <item>Romans 13:8</item>
+        <item>Romans 13:9</item>
+        <item>Romans 14:19</item>
+        <item>Romans 14:23</item>
+        <item>Romans 15:1</item>
+        <item>Romans 15:2</item>
+        <item>Romans 15:3</item>
+        <item>Romans 15:4</item>
+        <item>Romans 16:25</item>
+        <item>I Corinthians 2:6</item>
+        <item>I Corinthians 2:9</item>
+        <item>I Corinthians 2:10</item>
+        <item>I Corinthians 2:12</item>
+        <item>I Corinthians 2:14</item>
+        <item>I Corinthians 5:7</item>
+        <item>I Corinthians 6:9</item>
+        <item>I Corinthians 6:19</item>
+        <item>I Corinthians 6:20</item>
+        <item>I Corinthians 10:13</item>
+        <item>I Corinthians 10:31</item>
+        <item>I Corinthians 10:32</item>
+        <item>I Corinthians 11:24</item>
+        <item>I Corinthians 11:25</item>
+        <item>I Corinthians 12:12</item>
+        <item>I Corinthians 12:27</item>
+        <item>I Corinthians 13:1</item>
+        <item>I Corinthians 13:2</item>
+        <item>I Corinthians 13:3</item>
+        <item>I Corinthians 13:4</item>
+        <item>I Corinthians 13:5</item>
+        <item>I Corinthians 13:6</item>
+        <item>I Corinthians 13:7</item>
+        <item>I Corinthians 13:8</item>
+        <item>I Corinthians 13:9</item>
+        <item>I Corinthians 13:10</item>
+        <item>I Corinthians 13:11</item>
+        <item>I Corinthians 13:12</item>
+        <item>I Corinthians 13:13</item>
+        <item>I Corinthians 15:1</item>
+        <item>I Corinthians 15:3</item>
+        <item>I Corinthians 15:4</item>
+        <item>I Corinthians 15:17</item>
+        <item>I Corinthians 15:19</item>
+        <item>I Corinthians 15:20</item>
+        <item>I Corinthians 15:51</item>
+        <item>I Corinthians 15:52</item>
+        <item>II Corinthians 5:8</item>
+        <item>II Corinthians 5:10</item>
+        <item>II Corinthians 5:17</item>
+        <item>II Corinthians 5:20</item>
+        <item>II Corinthians 5:21</item>
+        <item>II Corinthians 6:14</item>
+        <item>II Corinthians 6:15</item>
+        <item>II Corinthians 6:16</item>
+        <item>II Corinthians 9:7</item>
+        <item>II Corinthians 11:31</item>
+        <item>II Corinthians 11:32</item>
+        <item>II Corinthians 13:14</item>
+        <item>Galatians 1:4</item>
+        <item>Galatians 1:8</item>
+        <item>Galatians 1:9</item>
+        <item>Galatians 2:20</item>
+        <item>Galatians 2:21</item>
+        <item>Galatians 3:10</item>
+        <item>Galatians 3:11</item>
+        <item>Galatians 3:12</item>
+        <item>Galatians 3:13</item>
+        <item>Galatians 3:23</item>
+        <item>Galatians 3:24</item>
+        <item>Galatians 3:25</item>
+        <item>Galatians 4:6</item>
+        <item>Galatians 4:7</item>
+        <item>Galatians 5:1</item>
+        <item>Galatians 5:13</item>
+        <item>Galatians 5:16</item>
+        <item>Galatians 5:24</item>
+        <item>Galatians 5:25</item>
+        <item>Galatians 6:2</item>
+        <item>Galatians 6:7</item>
+        <item>Galatians 6:9</item>
+        <item>Galatians 6:10</item>
+        <item>Ephesians 1:3</item>
+        <item>Ephesians 1:4</item>
+        <item>Ephesians 1:7</item>
+        <item>Ephesians 1:13</item>
+        <item>Ephesians 2:4</item>
+        <item>Ephesians 2:5</item>
+        <item>Ephesians 2:7</item>
+        <item>Ephesians 2:8</item>
+        <item>Ephesians 2:9</item>
+        <item>Ephesians 2:10</item>
+        <item>Ephesians 4:1</item>
+        <item>Ephesians 4:2</item>
+        <item>Ephesians 4:3</item>
+        <item>Ephesians 4:16</item>
+        <item>Ephesians 4:25</item>
+        <item>Ephesians 4:28</item>
+        <item>Ephesians 4:30</item>
+        <item>Ephesians 4:31</item>
+        <item>Ephesians 4:32</item>
+        <item>Ephesians 5:16</item>
+        <item>Ephesians 5:17</item>
+        <item>Ephesians 6:1</item>
+        <item>Ephesians 6:2</item>
+        <item>Ephesians 6:3</item>
+        <item>Ephesians 6:10</item>
+        <item>Ephesians 6:11</item>
+        <item>Ephesians 6:12</item>
+        <item>Ephesians 6:13</item>
+        <item>Ephesians 6:14</item>
+        <item>Ephesians 6:15</item>
+        <item>Ephesians 6:16</item>
+        <item>Ephesians 6:17</item>
+        <item>Ephesians 6:18</item>
+        <item>Ephesians 6:19</item>
+        <item>Philippians 2:1</item>
+        <item>Philippians 2:2</item>
+        <item>Philippians 2:3</item>
+        <item>Philippians 2:4</item>
+        <item>Philippians 2:5</item>
+        <item>Philippians 2:6</item>
+        <item>Philippians 2:7</item>
+        <item>Philippians 2:8</item>
+        <item>Philippians 2:9</item>
+        <item>Philippians 2:10</item>
+        <item>Philippians 2:11</item>
+        <item>Philippians 2:14</item>
+        <item>Philippians 3:20</item>
+        <item>Philippians 3:21</item>
+        <item>Philippians 4:6</item>
+        <item>Philippians 4:8</item>
+        <item>Philippians 4:13</item>
+        <item>Colossians 1:3</item>
+        <item>Colossians 1:9</item>
+        <item>Colossians 1:10</item>
+        <item>Colossians 1:14</item>
+        <item>Colossians 1:16</item>
+        <item>Colossians 2:8</item>
+        <item>Colossians 3:2</item>
+        <item>Colossians 3:9</item>
+        <item>Colossians 3:16</item>
+        <item>Colossians 3:20</item>
+        <item>Colossians 3:23</item>
+        <item>Colossians 3:24</item>
+        <item>I Thessalonians 2:13</item>
+        <item>I Thessalonians 4:1</item>
+        <item>I Thessalonians 4:2</item>
+        <item>I Thessalonians 4:3</item>
+        <item>I Thessalonians 4:4</item>
+        <item>I Thessalonians 4:5</item>
+        <item>I Thessalonians 4:6</item>
+        <item>I Thessalonians 4:7</item>
+        <item>I Thessalonians 4:16</item>
+        <item>I Thessalonians 4:17</item>
+        <item>I Thessalonians 5:16</item>
+        <item>I Thessalonians 5:17</item>
+        <item>I Thessalonians 5:18</item>
+        <item>I Thessalonians 5:22</item>
+        <item>I Thessalonians 5:25</item>
+        <item>II Thessalonians 1:7</item>
+        <item>II Thessalonians 1:8</item>
+        <item>II Thessalonians 1:9</item>
+        <item>I Timothy 1:9</item>
+        <item>I Timothy 1:15</item>
+        <item>I Timothy 2:1</item>
+        <item>I Timothy 2:2</item>
+        <item>I Timothy 2:5</item>
+        <item>I Timothy 4:12</item>
+        <item>II Timothy 2:1</item>
+        <item>II Timothy 2:2</item>
+        <item>II Timothy 2:3</item>
+        <item>II Timothy 2:4</item>
+        <item>II Timothy 2:5</item>
+        <item>II Timothy 2:6</item>
+        <item>II Timothy 2:7</item>
+        <item>II Timothy 2:8</item>
+        <item>II Timothy 2:9</item>
+        <item>II Timothy 2:10</item>
+        <item>II Timothy 2:11</item>
+        <item>II Timothy 2:12</item>
+        <item>II Timothy 2:13</item>
+        <item>II Timothy 2:14</item>
+        <item>II Timothy 2:15</item>
+        <item>II Timothy 2:22</item>
+        <item>II Timothy 3:16</item>
+        <item>II Timothy 3:17</item>
+        <item>Titus 2:11</item>
+        <item>Titus 2:12</item>
+        <item>Titus 2:13</item>
+        <item>Titus 2:14</item>
+        <item>Titus 3:5</item>
+        <item>Hebrews 4:12</item>
+        <item>Hebrews 4:16</item>
+        <item>Hebrews 7:25</item>
+        <item>Hebrews 9:22</item>
+        <item>Hebrews 10:4</item>
+        <item>Hebrews 10:24</item>
+        <item>Hebrews 10:25</item>
+        <item>Hebrews 11:6</item>
+        <item>Hebrews 12:1</item>
+        <item>Hebrews 12:2</item>
+        <item>Hebrews 12:6</item>
+        <item>Hebrews 12:7</item>
+        <item>Hebrews 13:5</item>
+        <item>Hebrews 13:6</item>
+        <item>Hebrews 13:7</item>
+        <item>Hebrews 13:17</item>
+        <item>James 1:14</item>
+        <item>James 1:15</item>
+        <item>James 1:23</item>
+        <item>James 1:24</item>
+        <item>James 1:25</item>
+        <item>James 2:8</item>
+        <item>James 2:9</item>
+        <item>James 2:10</item>
+        <item>James 4:4</item>
+        <item>James 4:7</item>
+        <item>James 4:17</item>
+        <item>James 5:8</item>
+        <item>James 5:16</item>
+        <item>I Peter 1:3</item>
+        <item>I Peter 1:4</item>
+        <item>I Peter 1:16</item>
+        <item>I Peter 1:18</item>
+        <item>I Peter 1:19</item>
+        <item>I Peter 1:25</item>
+        <item>I Peter 2:13</item>
+        <item>I Peter 2:15</item>
+        <item>I Peter 2:21</item>
+        <item>I Peter 2:22</item>
+        <item>I Peter 2:24</item>
+        <item>I Peter 3:3</item>
+        <item>I Peter 3:4</item>
+        <item>I Peter 3:8</item>
+        <item>I Peter 3:9</item>
+        <item>I Peter 3:15</item>
+        <item>I Peter 3:17</item>
+        <item>I Peter 5:8</item>
+        <item>I Peter 5:9</item>
+        <item>II Peter 1:16</item>
+        <item>II Peter 1:20</item>
+        <item>II Peter 1:21</item>
+        <item>I John 1:6</item>
+        <item>I John 1:7</item>
+        <item>I John 1:8</item>
+        <item>I John 1:9</item>
+        <item>I John 2:3</item>
+        <item>I John 2:4</item>
+        <item>I John 2:15</item>
+        <item>I John 2:16</item>
+        <item>I John 2:17</item>
+        <item>I John 3:1</item>
+        <item>I John 3:2</item>
+        <item>I John 3:4</item>
+        <item>I John 3:23</item>
+        <item>I John 4:7</item>
+        <item>I John 4:10</item>
+        <item>I John 4:11</item>
+        <item>I John 4:14</item>
+        <item>I John 4:16</item>
+        <item>I John 4:19</item>
+        <item>I John 5:11</item>
+        <item>I John 5:12</item>
+        <item>I John 5:13</item>
+        <item>I John 5:14</item>
+        <item>I John 5:15</item>
+        <item>I John 5:17</item>
+        <item>I John 5:21</item>
+        <item>Revelation 1:3</item>
+        <item>Revelation 1:8</item>
+        <item>Revelation 2:19</item>
+        <item>Revelation 3:15</item>
+        <item>Revelation 3:16</item>
+        <item>Revelation 4:11</item>
+        <item>Revelation 7:12</item>
+        <item>Revelation 11:17</item>
+        <item>Revelation 12:10</item>
+        <item>Revelation 15:3</item>
+        <item>Revelation 15:4</item>
+        <item>Revelation 18:5</item>
+        <item>Revelation 19:6</item>
+        <item>Revelation 19:7</item>
+        <item>Revelation 19:16</item>
+        <item>Revelation 20:10</item>
+        <item>Revelation 20:12</item>
+        <item>Revelation 20:15</item>
+        <item>Revelation 21:1</item>
+        <item>Revelation 21:4</item>
+        <item>Revelation 21:6</item>
+    </string-array>
+</resources>

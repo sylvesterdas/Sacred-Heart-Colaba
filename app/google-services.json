@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "830721121736",
+    "firebase_url": "https://sacred-heart-colaba.firebaseio.com",
+    "project_id": "sacred-heart-colaba",
+    "storage_bucket": "sacred-heart-colaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830721121736:android:190bc626fd9ed418",
+        "android_client_info": {
+          "package_name": "com.sacredheartcolaba.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830721121736-1eebq9ghes41e74qch0p4eqrvtcj827r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacredheartcolaba.app",
+            "certificate_hash": "7273d230ee7845fdfa40b8bded9614942656432c"
+          }
+        },
+        {
+          "client_id": "830721121736-3m01ec1jn5bqcaaug9vdteo0kne5l420.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacredheartcolaba.app",
+            "certificate_hash": "e522326846e8ffcb1529a083d10d4e0cc1041882"
+          }
+        },
+        {
+          "client_id": "830721121736-bl079e1l556a65p9ef58bql37f0vcqcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEJ7VOhLKvXKifaIkpAi2NNuAjzUqvq3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830721121736-bl079e1l556a65p9ef58bql37f0vcqcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

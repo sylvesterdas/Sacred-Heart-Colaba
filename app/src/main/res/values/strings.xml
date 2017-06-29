@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Sacred Heart Church</string>
+    <string name="title_activity_main">Sacred Heart Church</string>
+    <string name="church_id">1</string>
+    <string name="church_name">Sacred Heart Church, Colaba</string>
+    <string name="church_rite">Syro-Malabar Church</string>
+    <string name="contact_no">+91 80970 18925</string>
+
+    <string name="notification_news_content">You have latest News</string>
+    <string name="notification_events_content">You have latest Events</string>
+
+    <string name="BASE_URL">http://sacredheartcolaba.com/</string>
+    <string name="GET_NEWS_API">scripts/getNews.php</string>
+    <string name="GET_EVENTS_API">scripts/getEvents.php</string>
+    <string name="FETCH_NEW">scripts/fetchNew.php</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="main_nav_news">News</string>
+    <string name="main_nav_events">Events</string>
+    <string name="main_nav_settings">Settings</string>
+    <string name="main_nav_comm">Communicate</string>
+    <string name="main_nav_help">Help</string>
+    <string name="main_nav_contact">Contact Us</string>
+    <string name="stPicture">Saint\'s Picture</string>
+    <string name="sacred_heart_church_colaba">Sacred Heart Church\nColaba</string>
+    <string name="support_email">support@sacredheartcolaba.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote_of_the_day">Bible quote of the day</string>
+    <string name="saint_of_the_day">Saint of the day</string>
+    <string name="dummy_saint_info">Patron of the Universal Church, unborn children, fathers, workers, travelers, immigrants, and a happy death</string>
+    <string name="dummy_saint_name">St. Joseph</string>
+    <string name="dummy_quote_verse">John 3:16</string>
+    <string name="dummy_quote_text">For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life</string>
+    <string name="check_internet">Check Internet Connection!!</string>
+    <string name="no_internet">No Internet Connection!!</string>
+    <string name="uploaded_on">Uploaded on:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3583464091145274/4841398342</string>
+
+</resources>

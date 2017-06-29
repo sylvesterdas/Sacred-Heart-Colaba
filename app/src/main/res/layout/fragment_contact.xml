@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.sacredheartcolaba.app.main_fragment.ContactFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/contact_padding"
+        android:text="@string/church_name"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/contact_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@null"
+        android:padding="@dimen/contact_padding"
+        android:paddingEnd="@dimen/logo_padding_right"
+        android:paddingLeft="0dp"
+        android:paddingRight="@dimen/logo_padding_right"
+        android:paddingStart="0dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/contact_padding"
+        android:text="@string/church_rite"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/sym_action_email"
+        android:drawableStart="@android:drawable/sym_action_email"
+        android:gravity="center"
+        android:onClick="email"
+        android:padding="@dimen/contact_padding"
+        android:text="@string/support_email"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/sym_call_incoming"
+        android:drawableStart="@android:drawable/sym_call_incoming"
+        android:gravity="center"
+        android:onClick="phone"
+        android:padding="@dimen/contact_padding"
+        android:text="@string/contact_no"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+</LinearLayout>
