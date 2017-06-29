@@ -8,3 +8,5 @@
 /captures
 .externalNativeBuild
 /app/app-release.apk
+app/libs/
+app/src/main/assets/
