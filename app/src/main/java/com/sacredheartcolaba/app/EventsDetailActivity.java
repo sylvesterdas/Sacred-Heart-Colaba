@@ -7,16 +7,25 @@ import android.support.v7.app.AppCompatActivity;
 import android.transition.Fade;
 import android.transition.Slide;
 import android.widget.TextView;
+import android.widget.Toast;
 
-import com.sacredheartcolaba.app.extras.DataModel;
-import com.sacredheartcolaba.app.main_fragment.events.Events;
+import com.sacredheartcolaba.app.asynctask.RetrofitClient;
+import com.sacredheartcolaba.app.model.Events;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
+import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
+
 public class EventsDetailActivity extends AppCompatActivity {
+
+    private int id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,23 +35,67 @@ public class EventsDetailActivity extends AppCompatActivity {
 
         setTitle(getString(R.string.main_nav_events));
 
-        Bundle bundle = getIntent().getExtras();
-        Events events = (Events) bundle.getSerializable(DataModel.INTENT_EXTRA_DATA);
+        id = getIntent().getIntExtra("id", 0);
+        refresh();
+    }
 
-        CharSequence uploadedOn = getString(R.string.uploaded_on);
+    private void refresh() {
+        Retrofit.Builder builder = new Retrofit.Builder()
+                .baseUrl("http://sacredheartcolaba.com/api/v1/")
+                .addConverterFactory(GsonConverterFactory.create());
 
-        Date date;
-        try {
-            SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);
-            //Format to match actual String to parse
-            date = format.parse(events.getDate());
-            SimpleDateFormat newFormat = new SimpleDateFormat("d MMMM, yyyy", Locale.US);
-            ((TextView) findViewById(R.id.events_detail_date)).setText(String.format("%s %s", uploadedOn, newFormat.format(date)));
-        } catch (ParseException e) {
-            ((TextView) findViewById(R.id.events_detail_date)).setText(String.format("%s %s", uploadedOn, events.getDate()));
-        }
+        Retrofit retrofit = builder.build();
 
-        ((TextView) findViewById(R.id.events_detail_text)).setText(events.getBody() + "");
+        retrofit.create(RetrofitClient.class)
+                .getEvent(id)
+                .enqueue(new Callback<Events>() {
+                    @Override
+                    public void onResponse(Call<Events> call,
+                                           Response<Events> response) {
+                        if (response.isSuccessful()) {
+                            try {
+
+                                Events event = response.body();
+
+                                int maxLength = getResources().getInteger(R.integer.max_length_body);
+
+                                if (event.getTitle().length() >= maxLength)
+                                    setTitle(String.format("%s...", event.getTitle().substring(0, maxLength)));
+                                else
+                                    setTitle(event.getTitle());
+
+
+                                CharSequence uploadedOn = "Event On:";
+
+                                Date date;
+                                try {
+                                    SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);
+                                    //Format to match actual String to parse
+                                    date = format.parse(event.getDate());
+                                    SimpleDateFormat newFormat = new SimpleDateFormat("d MMMM, yyyy", Locale.US);
+                                    ((TextView) findViewById(R.id.events_detail_date)).setText(String.format("%s %s", uploadedOn, newFormat.format(date)));
+                                } catch (ParseException e) {
+                                    ((TextView) findViewById(R.id.events_detail_date)).setText(String.format("%s %s", uploadedOn, event.getDate()));
+                                }
+
+                                ((TextView) findViewById(R.id.events_detail_title)).setText(event.getTitle() + "");
+                                ((TextView) findViewById(R.id.events_detail_text)).setText(event.getBody() + "");
+
+                            } catch (NullPointerException e) {
+                                finish();
+                            }
+                        } else {
+                            Toast.makeText(EventsDetailActivity.this, "Unsuccessful", Toast.LENGTH_SHORT).show();
+                            finish();
+                        }
+                    }
+
+                    @Override
+                    public void onFailure(Call<Events> call, Throwable t) {
+                        Toast.makeText(EventsDetailActivity.this, t.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+                        finish();
+                    }
+                });
     }
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP)

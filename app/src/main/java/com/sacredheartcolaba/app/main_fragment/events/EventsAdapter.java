@@ -11,6 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.sacredheartcolaba.app.R;
+import com.sacredheartcolaba.app.model.Events;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -64,8 +65,7 @@ public class EventsAdapter extends BaseAdapter {
 
             holder = new ViewHolder();
             holder.dateTV = (TextView) vi.findViewById(R.id.events_list_view_date);
-            holder.bodyTV = (TextView) vi.findViewById(R.id.events_list_view_body);
-            holder.authorTV = (TextView) vi.findViewById(R.id.events_list_view_author);
+            holder.titleTV = (TextView) vi.findViewById(R.id.events_list_view_title);
 
             vi.setTag(holder);
         } else
@@ -76,11 +76,11 @@ public class EventsAdapter extends BaseAdapter {
 
             int maxLength = res.getInteger(R.integer.max_length_body);
             Log.w(getClass().getName(), tempValues.toString());
-            holder.authorTV.setText(tempValues.getAuthor());
+
             if (tempValues.getBody().length() >= maxLength)
-                holder.bodyTV.setText(String.format("%s...", tempValues.getBody().substring(0, maxLength)));
+                holder.titleTV.setText(String.format("%s...", tempValues.getTitle().substring(0, maxLength)));
             else
-                holder.bodyTV.setText(tempValues.getBody());
+                holder.titleTV.setText(tempValues.getTitle());
 
             Date date;
             try {
@@ -98,6 +98,6 @@ public class EventsAdapter extends BaseAdapter {
     }
 
     private static class ViewHolder {
-        TextView dateTV, bodyTV, authorTV;
+        TextView dateTV, titleTV;
     }
 }

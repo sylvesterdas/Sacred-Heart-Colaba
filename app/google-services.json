@@ -15,11 +15,27 @@
       },
       "oauth_client": [
         {
+          "client_id": "830721121736-kk2d1arfi1hasnqacaa7gv93q2joqfaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacredheartcolaba.app",
+            "certificate_hash": "86cc4c8a8a8c0f81bfd83d64f35f0fd2a9bd1dbd"
+          }
+        },
+        {
           "client_id": "830721121736-1eebq9ghes41e74qch0p4eqrvtcj827r.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.sacredheartcolaba.app",
             "certificate_hash": "7273d230ee7845fdfa40b8bded9614942656432c"
+          }
+        },
+        {
+          "client_id": "830721121736-kuaodqnr0vig5oqf7id3vbid89bpm9jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacredheartcolaba.app",
+            "certificate_hash": "b4aea17da998902e38b72444037437248cb2f867"
           }
         },
         {

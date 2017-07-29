@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sacred-Heart-Colaba.iml" filepath="$PROJECT_DIR$/Sacred-Heart-Colaba.iml" />
       <module fileurl="file://$PROJECT_DIR$/SacredHeartColaba.iml" filepath="$PROJECT_DIR$/SacredHeartColaba.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

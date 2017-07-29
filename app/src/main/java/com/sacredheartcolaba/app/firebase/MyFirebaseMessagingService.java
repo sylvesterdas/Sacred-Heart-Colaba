@@ -12,12 +12,14 @@ import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 import com.sacredheartcolaba.app.MainActivity;
 import com.sacredheartcolaba.app.R;
+import com.sacredheartcolaba.app.extras.Constants;
 
 /**
- * Created by Sylvester on 12/4/2016.
+ * @author Sylvester
+ * @since 12/4/2016.
  */
 
-public class MyFirebaseMessagingService extends FirebaseMessagingService {
+public class MyFirebaseMessagingService extends FirebaseMessagingService implements Constants {
     private static final String TAG = "MyFirebaseMsgService";
 
     @Override
@@ -33,12 +35,26 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         if (remoteMessage.getNotification() != null) {
             Log.d(TAG, "Msg Body: " + remoteMessage.getNotification().getBody());
-            sendNotification(remoteMessage.getNotification().getBody());
+            sendNotification(remoteMessage.getNotification(), remoteMessage.getData().get("body"));
         }
     }
 
-    private void sendNotification(String body) {
+    private void sendNotification(RemoteMessage.Notification notification, String redirect) {
+
         Intent intent = new Intent(this, MainActivity.class);
+        int id = 0;
+        switch (redirect) {
+            case "news":
+                intent.putExtra(EXTRA_KEY_NOTIFICATION, EXTRA_VALUE_NEWS);
+                id = NOTIFICATION_NEWS_ID;
+                break;
+
+            case "events":
+                intent.putExtra(EXTRA_KEY_NOTIFICATION, EXTRA_VALUE_EVENTS);
+                id = NOTIFICATION_EVENTS_ID;
+                break;
+        }
+
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_ONE_SHOT);
@@ -47,13 +63,13 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle("FCM")
-                .setContentText(body)
+                .setContentTitle(notification.getTitle())
+                .setContentText(notification.getBody())
                 .setAutoCancel(true)
                 .setSound(notificationSound)
                 .setContentIntent(pendingIntent);
 
         NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
-        notificationManager.notify(0, notificationBuilder.build());
+        notificationManager.notify(id, notificationBuilder.build());
     }
 }

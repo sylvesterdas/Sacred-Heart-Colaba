@@ -9,13 +9,13 @@
     android:paddingTop="@dimen/activity_vertical_margin">
 
     <TextView
-        android:id="@+id/news_list_view_date"
+        android:id="@+id/news_list_view_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
         android:layout_marginTop="@dimen/activity_vertical_margin"
-        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
-        android:textSize="@dimen/text_size_small" />
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textSize="@dimen/text_size_large" />
 
     <TextView
         android:id="@+id/news_list_view_body"
@@ -23,15 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
         android:gravity="start"
-        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-        android:textSize="@dimen/text_size_medium" />
-
-    <TextView
-        android:id="@+id/news_list_view_author"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="end"
-        android:textSize="@dimen/text_size_medium"
-        android:visibility="gone" />
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+        android:textSize="@dimen/text_size_small" />
 
 </LinearLayout>

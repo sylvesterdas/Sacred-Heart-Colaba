@@ -10,6 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.sacredheartcolaba.app.R;
+import com.sacredheartcolaba.app.model.News;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -62,9 +63,8 @@ public class NewsAdapter extends BaseAdapter {
             vi = inflater.inflate(R.layout.news_list_element, null);
 
             holder = new ViewHolder();
-            holder.dateTV = (TextView) vi.findViewById(R.id.news_list_view_date);
+            holder.titleTV = (TextView) vi.findViewById(R.id.news_list_view_title);
             holder.bodyTV = (TextView) vi.findViewById(R.id.news_list_view_body);
-            holder.authorTV = (TextView) vi.findViewById(R.id.news_list_view_author);
 
             vi.setTag(holder);
         } else
@@ -75,28 +75,21 @@ public class NewsAdapter extends BaseAdapter {
 
             int maxLength = res.getInteger(R.integer.max_length_body);
 
-            holder.authorTV.setText(tempValues.getAuthor());
+            if (tempValues.getTitle().length() >= 30)
+                holder.titleTV.setText(String.format("%s...", tempValues.getTitle().substring(0, 30)));
+            else
+                holder.titleTV.setText(tempValues.getTitle());
+
             if (tempValues.getBody().length() >= maxLength)
                 holder.bodyTV.setText(String.format("%s...", tempValues.getBody().substring(0, maxLength)));
             else
                 holder.bodyTV.setText(tempValues.getBody());
-
-            Date date;
-            try {
-                SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.US);
-                //Format to match actual String to parse
-                date = format.parse(tempValues.getDate());
-                SimpleDateFormat newFormat = new SimpleDateFormat("dd MMM yyyy, hh:mm a", Locale.US);
-                holder.dateTV.setText(newFormat.format(date));
-            } catch (ParseException e) {
-                holder.dateTV.setText(tempValues.getDate());
-            }
         }
 
         return vi;
     }
 
     private static class ViewHolder {
-        TextView dateTV, bodyTV, authorTV;
+        TextView titleTV, bodyTV;
     }
 }

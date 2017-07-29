@@ -28,4 +28,8 @@ public interface Constants {
     int NOTIFICATION_NEWS_ID = 10;
     int NOTIFICATION_EVENTS_ID = 11;
     /*END*/
+
+    /*RetroFit*/
+    String BASE_URL = "http://sacredheartcolaba.com/api/v1/";
+    /*End*/
 }
